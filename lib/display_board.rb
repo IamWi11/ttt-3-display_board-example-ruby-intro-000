@@ -1,5 +1,5 @@
 def display_board
-  puts "A Tic Tac Toe board"
+  puts "a 3x3 tic tac toe board"
   puts "   |   |   "
   puts "-----------"
   puts "   |   |   "
